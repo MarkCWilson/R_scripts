@@ -1,4 +1,7 @@
-# processing the output from FPW2021 - uses fact that we have 1000 iterations at each parameter setting
+# processing the simulation output used in
+# Order Symmetry: A New Fairness Criterion for Assignment Mechanisms, by Rupert Freeman, Geoffrey Pritchard and Mark C. Wilson
+
+# uses fact that we have 1000 iterations at each parameter setting
 
 library(tidyverse)
 library(reshape2)
