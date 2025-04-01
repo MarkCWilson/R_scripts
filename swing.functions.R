@@ -1,4 +1,7 @@
-## Substantial material taken from Katz King Rosenschein
+## Helper functions for swing.R 
+## Substantial material taken from code associated with Katz, Jonathan N., Gary King, and Elizabeth Rosenblatt. 
+## "Theoretical foundations and empirical evaluations of partisan fairness in district-based democracies." 
+## American Political Science Review 114.1 (2020): 164-178.
 
 ## It assumes the dataframe, dta, has the following columns:
 ## stabb: state abbreviation
