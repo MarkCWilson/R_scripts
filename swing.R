@@ -1,7 +1,8 @@
 ## swing.R
 ## Mark C. Wilson <markwilson@umass.edu>
 ##
-## Purpose: Empirical part of Grofman-Wilson paper
+## Purpose: Empirical part of Grofman-Wilson paper "Models of inter-election change in partisan vote share"
+## Journal of Theoretical Politics 34.4 (2022): 481-498. Found at https://doi.org/10.1177/09516298221123263
 ##
 ##
 
