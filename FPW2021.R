@@ -1,6 +1,6 @@
 # processing the simulation output used in
 # Order Symmetry: A New Fairness Criterion for Assignment Mechanisms, by Rupert Freeman, Geoffrey Pritchard and Mark C. Wilson
-
+# Found at https://osf.io/preprints/socarxiv/xt37c_v1
 # uses fact that we have 1000 iterations at each parameter setting
 
 library(tidyverse)
